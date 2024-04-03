@@ -1,0 +1,1439 @@
+ID,Age,Gender,Country,Favorite Fruit,Frequency of Consumption,Preferred Form of Fruit
+1,32,Male,USA,Apple,Daily,Fresh
+2,45,Female,Canada,Banana,2-3 times a week,Smoothie
+3,28,Male,UK,Orange,Once a week,Juice
+4,50,Female,Australia,Mango,Daily,Fresh
+5,19,Female,Germany,Strawberry,4-5 times a week,Salad
+6,39,Male,France,Apple,2-3 times a week,Fresh
+7,56,Female,USA,Banana,Once a week,Smoothie
+8,22,Female,Canada,Orange,3-4 times a week,Juice
+9,41,Male,UK,Mango,Daily,Fresh
+10,30,Female,Australia,Strawberry,Once a week,Smoothie
+11,47,Male,Germany,Apple,Daily,Fresh
+12,25,Female,France,Banana,2-3 times a week,Smoothie
+13,34,Male,USA,Orange,Once a week,Juice
+14,52,Female,Canada,Mango,Daily,Fresh
+15,20,Male,UK,Strawberry,4-5 times a week,Salad
+16,43,Female,Australia,Apple,Daily,Fresh
+17,29,Male,Germany,Banana,Once a week,Smoothie
+18,38,Female,France,Orange,2-3 times a week,Juice
+19,55,Male,USA,Mango,Daily,Fresh
+20,21,Female,Canada,Strawberry,3-4 times a week,Smoothie
+21,48,Male,UK,Apple,Once a week,Fresh
+22,26,Female,Australia,Banana,4-5 times a week,Smoothie
+23,35,Male,Germany,Orange,Daily,Juice
+24,51,Female,France,Mango,Once a week,Fresh
+25,18,Male,USA,Strawberry,Daily,Smoothie
+26,42,Female,Canada,Apple,2-3 times a week,Fresh
+27,31,Male,UK,Banana,Once a week,Smoothie
+28,46,Female,Australia,Orange,3-4 times a week,Juice
+29,23,Male,Germany,Mango,Daily,Fresh
+30,40,Female,France,Strawberry,Once a week,Smoothie
+31,53,Male,USA,Apple,4-5 times a week,Fresh
+32,27,Female,Canada,Banana,Daily,Smoothie
+33,36,Male,UK,Orange,2-3 times a week,Juice
+34,49,Female,Australia,Mango,Once a week,Fresh
+35,24,Male,Germany,Strawberry,Daily,Salad
+36,37,Female,France,Apple,Once a week,Fresh
+37,54,Male,USA,Banana,3-4 times a week,Smoothie
+38,33,Female,Canada,Orange,Once a week,Juice
+39,50,Male,UK,Mango,Daily,Fresh
+40,28,Female,Australia,Strawberry,4-5 times a week,Smoothie
+41,19,Male,Germany,Apple,Once a week,Fresh
+42,39,Female,France,Banana,Daily,Smoothie
+43,56,Male,USA,Orange,2-3 times a week,Juice
+44,22,Female,Canada,Mango,Once a week,Fresh
+45,41,Male,UK,Strawberry,Daily,Smoothie
+46,30,Female,Australia,Apple,3-4 times a week,Fresh
+47,47,Male,Germany,Banana,Once a week,Smoothie
+48,25,Female,France,Orange,Daily,Juice
+49,34,Male,USA,Mango,Once a week,Fresh
+50,52,Female,Canada,Strawberry,4-5 times a week,Smoothie
+51,20,Male,UK,Apple,Daily,Fresh
+52,43,Female,Australia,Banana,2-3 times a week,Smoothie
+53,29,Male,Germany,Orange,Once a week,Juice
+54,38,Female,France,Mango,Daily,Fresh
+55,55,Male,USA,Strawberry,3-4 times a week,Smoothie
+56,21,Female,Canada,Apple,Once a week,Fresh
+57,48,Male,UK,Banana,Daily,Smoothie
+58,26,Female,Australia,Orange,2-3 times a week,Juice
+59,35,Male,Germany,Mango,Once a week,Fresh
+60,51,Female,France,Strawberry,Daily,Smoothie
+61,18,Male,USA,Apple,4-5 times a week,Fresh
+62,42,Female,Canada,Banana,Daily,Smoothie
+63,31,Male,UK,Orange,Once a week,Juice
+64,46,Female,Australia,Mango,3-4 times a week,Fresh
+65,23,Male,Germany,Strawberry,Daily,Smoothie
+66,40,Female,France,Apple,Once a week,Fresh
+67,53,Male,USA,Banana,2-3 times a week,Smoothie
+68,27,Female,Canada,Orange,Once a week,Juice
+69,36,Male,UK,Mango,Daily,Fresh
+70,49,Female,Australia,Strawberry,4-5 times a week,Smoothie
+71,24,Male,Germany,Apple,Once a week,Fresh
+72,37,Female,France,Banana,3-4 times a week,Smoothie
+73,54,Male,USA,Orange,Daily,Juice
+74,33,Female,Canada,Mango,Once a week,Fresh
+75,50,Male,UK,Strawberry,2-3 times a week,Smoothie
+76,28,Female,Australia,Apple,Once a week,Fresh
+77,19,Male,Germany,Banana,Daily,Smoothie
+78,39,Female,France,Orange,4-5 times a week,Juice
+79,56,Male,USA,Mango,Once a week,Fresh
+80,22,Female,Canada,Strawberry,Daily,Smoothie
+81,48,Male,UK,Apple,2-3 times a week,Fresh
+82,26,Female,Australia,Banana,Once a week,Smoothie
+83,35,Male,Germany,Orange,3-4 times a week,Juice
+84,51,Female,France,Mango,Daily,Fresh
+85,18,Male,USA,Strawberry,Once a week,Smoothie
+86,42,Female,Canada,Apple,4-5 times a week,Fresh
+87,31,Male,UK,Banana,Once a week,Smoothie
+88,46,Female,Australia,Orange,2-3 times a week,Juice
+89,23,Male,Germany,Mango,Once a week,Fresh
+90,40,Female,France,Strawberry,Daily,Smoothie
+91,53,Male,USA,Apple,3-4 times a week,Fresh
+92,27,Female,Canada,Banana,Once a week,Fresh
+93,36,Male,UK,Orange,Daily,Juice
+94,49,Female,Australia,Mango,4-5 times a week,Fresh
+95,24,Male,Germany,Strawberry,Once a week,Smoothie
+96,37,Female,France,Apple,2-3 times a week,Fresh
+97,54,Male,USA,Orange,Once a week,Juice
+98,33,Female,Canada,Mango,Daily,Fresh
+99,50,Male,UK,Strawberry,3-4 times a week,Smoothie
+100,28,Female,Australia,Apple,Once a week,Fresh
+101,19,Male,Germany,Banana,4-5 times a week,Smoothie
+102,39,Female,France,Orange,Once a week,Juice
+103,56,Male,USA,Mango,Daily,Fresh
+104,22,Female,Canada,Strawberry,2-3 times a week,Smoothie
+105,48,Male,UK,Apple,Once a week,Fresh
+106,26,Female,Australia,Banana,Daily,Smoothie
+107,35,Male,Germany,Orange,4-5 times a week,Juice
+108,51,Female,France,Mango,Once a week,Fresh
+109,18,Male,USA,Strawberry,Daily,Fresh
+110,42,Female,Canada,Apple,Once a week,Smoothie
+111,31,Male,UK,Banana,3-4 times a week,Fresh
+112,46,Female,Australia,Orange,Once a week,Juice
+113,23,Male,Germany,Mango,2-3 times a week,Fresh
+114,40,Female,France,Strawberry,Daily,Smoothie
+115,53,Male,USA,Apple,Once a week,Fresh
+116,27,Female,Canada,Banana,Daily,Smoothie
+117,36,Male,UK,Orange,2-3 times a week,Juice
+118,49,Female,Australia,Mango,Once a week,Fresh
+119,24,Male,Germany,Strawberry,Daily,Smoothie
+120,37,Female,France,Apple,4-5 times a week,Fresh
+121,54,Male,USA,Orange,Once a week,Juice
+122,33,Female,Canada,Mango,Daily,Fresh
+123,50,Male,UK,Strawberry,Once a week,Smoothie
+124,28,Female,Australia,Apple,2-3 times a week,Fresh
+125,19,Male,Germany,Banana,Once a week,Smoothie
+126,39,Female,France,Orange,3-4 times a week,Juice
+127,56,Male,USA,Mango,Daily,Fresh
+128,22,Female,Canada,Strawberry,Once a week,Smoothie
+129,48,Male,UK,Apple,4-5 times a week,Fresh
+130,26,Female,Australia,Banana,Once a week,Smoothie
+131,35,Male,Germany,Orange,Daily,Juice
+132,51,Female,France,Mango,2-3 times a week,Fresh
+133,18,Male,USA,Strawberry,Once a week,Fresh
+134,42,Female,Canada,Apple,Daily,Fresh
+135,31,Male,UK,Banana,Once a week,Smoothie
+136,46,Female,Australia,Orange,3-4 times a week,Juice
+137,23,Male,Germany,Mango,Daily,Fresh
+138,40,Female,France,Strawberry,Once a week,Smoothie
+139,53,Male,USA,Apple,2-3 times a week,Fresh
+140,27,Female,Canada,Banana,Once a week,Smoothie
+141,36,Male,UK,Orange,4-5 times a week,Juice
+142,49,Female,Australia,Mango,Once a week,Fresh
+143,24,Male,Germany,Strawberry,Daily,Smoothie
+144,37,Female,France,Apple,Once a week,Fresh
+145,54,Male,USA,Orange,3-4 times a week,Juice
+146,33,Female,Canada,Mango,Daily,Fresh
+147,50,Male,UK,Strawberry,Once a week,Smoothie
+148,28,Female,Australia,Apple,2-3 times a week,Fresh
+149,19,Male,Germany,Banana,Once a week,Smoothie
+150,39,Female,France,Orange,Daily,Juice
+151,56,Male,USA,Mango,Once a week,Fresh
+152,22,Female,Canada,Strawberry,3-4 times a week,Smoothie
+153,48,Male,UK,Apple,Daily,Fresh
+154,26,Female,Australia,Banana,Once a week,Smoothie
+155,35,Male,Germany,Orange,Once a week,Juice
+156,51,Female,France,Mango,2-3 times a week,Fresh
+157,18,Male,USA,Strawberry,Once a week,Smoothie
+158,42,Female,Canada,Apple,4-5 times a week,Fresh
+159,31,Male,UK,Banana,Daily,Smoothie
+160,46,Female,Australia,Orange,Once a week,Juice
+161,23,Male,Germany,Mango,2-3 times a week,Fresh
+162,40,Female,France,Strawberry,Daily,Smoothie
+163,53,Male,USA,Apple,Once a week,Fresh
+164,27,Female,Canada,Banana,3-4 times a week,Smoothie
+165,36,Male,UK,Orange,Daily,Juice
+166,49,Female,Australia,Mango,Once a week,Fresh
+167,24,Male,Germany,Strawberry,4-5 times a week,Smoothie
+168,37,Female,France,Apple,Once a week,Fresh
+169,54,Male,USA,Orange,2-3 times a week,Juice
+170,33,Female,Canada,Mango,Once a week,Fresh
+171,50,Male,UK,Strawberry,Daily,Smoothie
+172,28,Female,Australia,Apple,Once a week,Fresh
+173,19,Male,Germany,Banana,3-4 times a week,Smoothie
+174,39,Female,France,Orange,Once a week,Juice
+175,56,Male,USA,Mango,Daily,Fresh
+176,22,Female,Canada,Strawberry,Once a week,Smoothie
+177,48,Male,UK,Apple,2-3 times a week,Fresh
+178,26,Female,Australia,Banana,Once a week,Smoothie
+179,35,Male,Germany,Orange,3-4 times a week,Juice
+180,51,Female,France,Mango,Daily,Fresh
+181,18,Male,USA,Strawberry,Once a week,Smoothie
+182,42,Female,Canada,Apple,3-4 times a week,Fresh
+183,31,Male,UK,Banana,Once a week,Smoothie
+184,46,Female,Australia,Orange,2-3 times a week,Juice
+185,23,Male,Germany,Mango,Once a week,Fresh
+186,40,Female,France,Strawberry,Daily,Smoothie
+187,53,Male,USA,Apple,3-4 times a week,Fresh
+188,27,Female,Canada,Banana,Once a week,Fresh
+189,36,Male,UK,Orange,4-5 times a week,Juice
+190,49,Female,Australia,Mango,Once a week,Fresh
+191,24,Male,Germany,Strawberry,Daily,Smoothie
+192,37,Female,France,Apple,Once a week,Fresh
+193,54,Male,USA,Orange,Once a week,Juice
+194,33,Female,Canada,Mango,Daily,Fresh
+195,50,Male,UK,Strawberry,Once a week,Smoothie
+196,28,Female,Australia,Apple,2-3 times a week,Fresh
+197,19,Male,Germany,Banana,Once a week,Smoothie
+198,39,Female,France,Orange,3-4 times a week,Juice
+199,56,Male,USA,Mango,Daily,Fresh
+200,22,Female,Canada,Strawberry,Once a week,Smoothie
+201,48,Male,UK,Apple,4-5 times a week,Fresh
+202,26,Female,Australia,Banana,Once a week,Smoothie
+203,35,Male,Germany,Orange,3-4 times a week,Juice
+204,51,Female,France,Mango,Daily,Fresh
+205,18,Male,USA,Strawberry,Once a week,Smoothie
+206,42,Female,Canada,Apple,4-5 times a week,Fresh
+207,31,Male,UK,Banana,3-4 times a week,Smoothie
+208,46,Female,Australia,Orange,Once a week,Juice
+209,23,Male,Germany,Mango,2-3 times a week,Fresh
+210,40,Female,France,Strawberry,Daily,Smoothie
+211,53,Male,USA,Apple,Once a week,Fresh
+212,27,Female,Canada,Banana,Once a week,Smoothie
+213,36,Male,UK,Orange,4-5 times a week,Juice
+214,49,Female,Australia,Mango,Once a week,Fresh
+215,24,Male,Germany,Strawberry,Daily,Smoothie
+216,37,Female,France,Apple,4-5 times a week,Fresh
+217,54,Male,USA,Orange,Once a week,Juice
+218,33,Female,Canada,Mango,Daily,Fresh
+219,50,Male,UK,Strawberry,Once a week,Smoothie
+220,28,Female,Australia,Apple,2-3 times a week,Fresh
+221,19,Male,Germany,Banana,Once a week,Smoothie
+222,39,Female,France,Orange,Daily,Juice
+223,56,Male,USA,Mango,Once a week,Fresh
+224,22,Female,Canada,Strawberry,3-4 times a week,Smoothie
+225,48,Male,UK,Apple,Daily,Fresh
+226,26,Female,Australia,Banana,Once a week,Smoothie
+227,35,Male,Germany,Orange,3-4 times a week,Juice
+228,51,Female,France,Mango,2-3 times a week,Fresh
+229,18,Male,USA,Strawberry,Once a week,Smoothie
+230,42,Female,Canada,Apple,4-5 times a week,Fresh
+231,31,Male,UK,Banana,Daily,Smoothie
+232,46,Female,Australia,Orange,Once a week,Juice
+233,23,Male,Germany,Mango,2-3 times a week,Fresh
+234,40,Female,France,Strawberry,Daily,Smoothie
+235,53,Male,USA,Apple,Once a week,Fresh
+236,27,Female,Canada,Banana,3-4 times a week,Smoothie
+237,36,Male,UK,Orange,Daily,Juice
+238,49,Female,Australia,Mango,Once a week,Fresh
+239,24,Male,Germany,Strawberry,Daily,Smoothie
+240,37,Female,France,Apple,Once a week,Fresh
+241,54,Male,USA,Orange,3-4 times a week,Juice
+242,33,Female,Canada,Mango,Once a week,Fresh
+243,50,Male,UK,Strawberry,Daily,Smoothie
+244,28,Female,Australia,Apple,Once a week,Fresh
+245,19,Male,Germany,Banana,3-4 times a week,Smoothie
+246,39,Female,France,Orange,Once a week,Juice
+247,56,Male,USA,Mango,Daily,Fresh
+248,22,Female,Canada,Strawberry,Once a week,Smoothie
+249,48,Male,UK,Apple,2-3 times a week,Fresh
+250,26,Female,Australia,Banana,Once a week,Smoothie
+251,35,Male,Germany,Orange,3-4 times a week,Juice
+252,51,Female,France,Mango,Daily,Fresh
+253,18,Male,USA,Strawberry,Once a week,Smoothie
+254,42,Female,Canada,Apple,4-5 times a week,Fresh
+255,31,Male,UK,Banana,3-4 times a week,Smoothie
+256,46,Female,Australia,Orange,Once a week,Juice
+257,23,Male,Germany,Mango,2-3 times a week,Fresh
+258,40,Female,France,Strawberry,Daily,Smoothie
+259,53,Male,USA,Apple,Once a week,Fresh
+260,27,Female,Canada,Banana,Once a week,Smoothie
+261,36,Male,UK,Orange,4-5 times a week,Juice
+262,49,Female,Australia,Mango,Once a week,Fresh
+263,24,Male,Germany,Strawberry,Daily,Smoothie
+264,37,Female,France,Apple,4-5 times a week,Fresh
+265,54,Male,USA,Orange,Once a week,Juice
+266,33,Female,Canada,Mango,Daily,Fresh
+267,50,Male,UK,Strawberry,Once a week,Smoothie
+268,28,Female,Australia,Apple,2-3 times a week,Fresh
+269,19,Male,Germany,Banana,Once a week,Smoothie
+270,39,Female,France,Orange,3-4 times a week,Juice
+271,56,Male,USA,Mango,Daily,Fresh
+272,22,Female,Canada,Strawberry,Once a week,Smoothie
+273,48,Male,UK,Apple,4-5 times a week,Fresh
+274,26,Female,Australia,Banana,Once a week,Smoothie
+275,35,Male,Germany,Orange,3-4 times a week,Juice
+276,51,Female,France,Mango,Daily,Fresh
+277,18,Male,USA,Strawberry,Once a week,Smoothie
+278,42,Female,Canada,Apple,4-5 times a week,Fresh
+279,31,Male,UK,Banana,3-4 times a week,Smoothie
+280,46,Female,Australia,Orange,Once a week,Juice
+281,23,Male,Germany,Mango,2-3 times a week,Fresh
+282,40,Female,France,Strawberry,Daily,Smoothie
+283,53,Male,USA,Apple,Once a week,Fresh
+284,27,Female,Canada,Banana,Once a week,Smoothie
+285,36,Male,UK,Orange,4-5 times a week,Juice
+286,49,Female,Australia,Mango,Once a week,Fresh
+287,24,Male,Germany,Strawberry,Daily,Smoothie
+288,37,Female,France,Apple,4-5 times a week,Fresh
+289,54,Male,USA,Orange,Once a week,Juice
+290,33,Female,Canada,Mango,Daily,Fresh
+291,50,Male,UK,Strawberry,Once a week,Smoothie
+292,28,Female,Australia,Apple,2-3 times a week,Fresh
+293,19,Male,Germany,Banana,Once a week,Smoothie
+294,39,Female,France,Orange,3-4 times a week,Juice
+295,56,Male,USA,Mango,Daily,Fresh
+296,22,Female,Canada,Strawberry,Once a week,Smoothie
+297,48,Male,UK,Apple,4-5 times a week,Fresh
+298,26,Female,Australia,Banana,Once a week,Smoothie
+299,35,Male,Germany,Orange,3-4 times a week,Juice
+300,51,Female,France,Mango,Daily,Fresh
+301,18,Male,USA,Strawberry,Once a week,Smoothie
+302,42,Female,Canada,Apple,4-5 times a week,Fresh
+303,31,Male,UK,Banana,3-4 times a week,Smoothie
+304,46,Female,Australia,Orange,Once a week,Juice
+305,23,Male,Germany,Mango,2-3 times a week,Fresh
+306,40,Female,France,Strawberry,Daily,Smoothie
+307,53,Male,USA,Apple,Once a week,Fresh
+308,27,Female,Canada,Banana,Once a week,Smoothie
+309,36,Male,UK,Orange,4-5 times a week,Juice
+310,49,Female,Australia,Mango,Once a week,Fresh
+311,24,Male,Germany,Strawberry,Daily,Smoothie
+312,37,Female,France,Apple,4-5 times a week,Fresh
+313,54,Male,USA,Orange,Once a week,Juice
+314,33,Female,Canada,Mango,Daily,Fresh
+315,50,Male,UK,Strawberry,Once a week,Smoothie
+316,28,Female,Australia,Apple,2-3 times a week,Fresh
+317,19,Male,Germany,Banana,Once a week,Smoothie
+318,39,Female,France,Orange,3-4 times a week,Juice
+319,56,Male,USA,Mango,Daily,Fresh
+320,22,Female,Canada,Strawberry,Once a week,Smoothie
+321,48,Male,UK,Apple,4-5 times a week,Fresh
+322,26,Female,Australia,Banana,Once a week,Smoothie
+323,35,Male,Germany,Orange,3-4 times a week,Juice
+324,51,Female,France,Mango,Daily,Fresh
+325,18,Male,USA,Strawberry,Once a week,Smoothie
+326,42,Female,Canada,Apple,4-5 times a week,Fresh
+327,31,Male,UK,Banana,3-4 times a week,Smoothie
+328,46,Female,Australia,Orange,Once a week,Juice
+329,23,Male,Germany,Mango,2-3 times a week,Fresh
+330,40,Female,France,Strawberry,Daily,Smoothie
+331,53,Male,USA,Apple,Once a week,Fresh
+332,27,Female,Canada,Banana,Once a week,Smoothie
+333,36,Male,UK,Orange,4-5 times a week,Juice
+334,49,Female,Australia,Mango,Once a week,Fresh
+335,24,Male,Germany,Strawberry,Daily,Smoothie
+336,37,Female,France,Apple,4-5 times a week,Fresh
+337,54,Male,USA,Orange,Once a week,Juice
+338,33,Female,Canada,Mango,Daily,Fresh
+339,50,Male,UK,Strawberry,Once a week,Smoothie
+340,28,Female,Australia,Apple,2-3 times a week,Fresh
+341,19,Male,Germany,Banana,Once a week,Smoothie
+342,39,Female,France,Orange,3-4 times a week,Juice
+343,56,Male,USA,Mango,Daily,Fresh
+344,22,Female,Canada,Strawberry,Once a week,Smoothie
+345,48,Male,UK,Apple,4-5 times a week,Fresh
+346,26,Female,Australia,Banana,Once a week,Smoothie
+347,35,Male,Germany,Orange,3-4 times a week,Juice
+348,51,Female,France,Mango,Daily,Fresh
+349,18,Male,USA,Strawberry,Once a week,Smoothie
+350,42,Female,Canada,Apple,4-5 times a week,Fresh
+351,31,Male,UK,Banana,3-4 times a week,Smoothie
+352,46,Female,Australia,Orange,Once a week,Juice
+353,23,Male,Germany,Mango,2-3 times a week,Fresh
+354,40,Female,France,Strawberry,Daily,Smoothie
+355,53,Male,USA,Apple,Once a week,Fresh
+356,27,Female,Canada,Banana,Once a week,Smoothie
+357,36,Male,UK,Orange,4-5 times a week,Juice
+358,49,Female,Australia,Mango,Once a week,Fresh
+359,24,Male,Germany,Strawberry,Daily,Smoothie
+360,37,Female,France,Apple,4-5 times a week,Fresh
+361,54,Male,USA,Orange,Once a week,Juice
+362,33,Female,Canada,Mango,Daily,Fresh
+363,50,Male,UK,Strawberry,Once a week,Smoothie
+364,28,Female,Australia,Apple,2-3 times a week,Fresh
+365,19,Male,Germany,Banana,Once a week,Smoothie
+366,39,Female,France,Orange,3-4 times a week,Juice
+367,56,Male,USA,Mango,Daily,Fresh
+368,22,Female,Canada,Strawberry,Once a week,Smoothie
+369,48,Male,UK,Apple,4-5 times a week,Fresh
+370,26,Female,Australia,Banana,Once a week,Smoothie
+371,35,Male,Germany,Orange,3-4 times a week,Juice
+372,51,Female,France,Mango,Daily,Fresh
+373,18,Male,USA,Strawberry,Once a week,Smoothie
+374,42,Female,Canada,Apple,4-5 times a week,Fresh
+375,31,Male,UK,Banana,3-4 times a week,Smoothie
+376,46,Female,Australia,Orange,Once a week,Juice
+377,23,Male,Germany,Mango,2-3 times a week,Fresh
+378,40,Female,France,Strawberry,Daily,Smoothie
+379,53,Male,USA,Apple,Once a week,Fresh
+380,27,Female,Canada,Banana,Once a week,Smoothie
+381,36,Male,UK,Orange,4-5 times a week,Juice
+382,49,Female,Australia,Mango,Once a week,Fresh
+383,24,Male,Germany,Strawberry,Daily,Smoothie
+384,37,Female,France,Apple,4-5 times a week,Fresh
+385,54,Male,USA,Orange,Once a week,Juice
+386,33,Female,Canada,Mango,Daily,Fresh
+387,50,Male,UK,Strawberry,Once a week,Smoothie
+388,28,Female,Australia,Apple,2-3 times a week,Fresh
+389,19,Male,Germany,Banana,Once a week,Smoothie
+390,39,Female,France,Orange,3-4 times a week,Juice
+391,56,Male,USA,Mango,Daily,Fresh
+392,22,Female,Canada,Strawberry,Once a week,Smoothie
+393,48,Male,UK,Apple,4-5 times a week,Fresh
+394,26,Female,Australia,Banana,Once a week,Smoothie
+395,35,Male,Germany,Orange,3-4 times a week,Juice
+396,51,Female,France,Mango,Daily,Fresh
+397,18,Male,USA,Strawberry,Once a week,Smoothie
+398,42,Female,Canada,Apple,4-5 times a week,Fresh
+399,31,Male,UK,Banana,3-4 times a week,Smoothie
+400,46,Female,Australia,Orange,Once a week,Juice
+401,23,Male,Germany,Mango,2-3 times a week,Fresh
+402,40,Female,France,Strawberry,Daily,Smoothie
+403,53,Male,USA,Apple,Once a week,Fresh
+404,27,Female,Canada,Banana,Once a week,Smoothie
+405,36,Male,UK,Orange,4-5 times a week,Juice
+406,49,Female,Australia,Mango,Once a week,Fresh
+407,24,Male,Germany,Strawberry,Daily,Smoothie
+408,37,Female,France,Apple,4-5 times a week,Fresh
+409,54,Male,USA,Orange,Once a week,Juice
+410,33,Female,Canada,Mango,Daily,Fresh
+411,50,Male,UK,Strawberry,Once a week,Smoothie
+412,28,Female,Australia,Apple,2-3 times a week,Fresh
+413,19,Male,Germany,Banana,Once a week,Smoothie
+414,39,Female,France,Orange,3-4 times a week,Juice
+415,56,Male,USA,Mango,Daily,Fresh
+416,22,Female,Canada,Strawberry,Once a week,Smoothie
+417,48,Male,UK,Apple,4-5 times a week,Fresh
+418,26,Female,Australia,Banana,Once a week,Smoothie
+419,35,Male,Germany,Orange,3-4 times a week,Juice
+420,51,Female,France,Mango,Daily,Fresh
+421,18,Male,USA,Strawberry,Once a week,Smoothie
+422,42,Female,Canada,Apple,4-5 times a week,Fresh
+423,31,Male,UK,Banana,3-4 times a week,Smoothie
+424,46,Female,Australia,Orange,Once a week,Juice
+425,23,Male,Germany,Mango,2-3 times a week,Fresh
+426,40,Female,France,Strawberry,Daily,Smoothie
+427,53,Male,USA,Apple,Once a week,Fresh
+428,27,Female,Canada,Banana,Once a week,Smoothie
+429,36,Male,UK,Orange,4-5 times a week,Juice
+430,49,Female,Australia,Mango,Once a week,Fresh
+431,24,Male,Germany,Strawberry,Daily,Smoothie
+432,37,Female,France,Apple,4-5 times a week,Fresh
+433,54,Male,USA,Orange,Once a week,Juice
+434,33,Female,Canada,Mango,Daily,Fresh
+435,50,Male,UK,Strawberry,Once a week,Smoothie
+436,28,Female,Australia,Apple,2-3 times a week,Fresh
+437,19,Male,Germany,Banana,Once a week,Smoothie
+438,39,Female,France,Orange,3-4 times a week,Juice
+439,56,Male,USA,Mango,Daily,Fresh
+440,22,Female,Canada,Strawberry,Once a week,Smoothie
+441,48,Male,UK,Apple,4-5 times a week,Fresh
+442,26,Female,Australia,Banana,Once a week,Smoothie
+443,35,Male,Germany,Orange,3-4 times a week,Juice
+444,51,Female,France,Mango,Daily,Fresh
+445,18,Male,USA,Strawberry,Once a week,Smoothie
+446,42,Female,Canada,Apple,4-5 times a week,Fresh
+447,31,Male,UK,Banana,3-4 times a week,Smoothie
+448,46,Female,Australia,Orange,Once a week,Juice
+449,23,Male,Germany,Mango,2-3 times a week,Fresh
+450,40,Female,France,Strawberry,Daily,Smoothie
+451,53,Male,USA,Apple,Once a week,Fresh
+452,27,Female,Canada,Banana,Once a week,Smoothie
+453,36,Male,UK,Orange,4-5 times a week,Juice
+454,49,Female,Australia,Mango,Once a week,Fresh
+455,24,Male,Germany,Strawberry,Daily,Smoothie
+456,37,Female,France,Apple,4-5 times a week,Fresh
+457,54,Male,USA,Orange,Once a week,Juice
+458,33,Female,Canada,Mango,Daily,Fresh
+459,50,Male,UK,Strawberry,Once a week,Smoothie
+460,28,Female,Australia,Apple,2-3 times a week,Fresh
+461,19,Male,Germany,Banana,Once a week,Smoothie
+462,39,Female,France,Orange,3-4 times a week,Juice
+463,56,Male,USA,Mango,Daily,Fresh
+464,22,Female,Canada,Strawberry,Once a week,Smoothie
+465,48,Male,UK,Apple,4-5 times a week,Fresh
+466,26,Female,Australia,Banana,Once a week,Smoothie
+467,35,Male,Germany,Orange,3-4 times a week,Juice
+468,51,Female,France,Mango,Daily,Fresh
+469,18,Male,USA,Strawberry,Once a week,Smoothie
+470,42,Female,Canada,Apple,4-5 times a week,Fresh
+471,31,Male,UK,Banana,3-4 times a week,Smoothie
+472,46,Female,Australia,Orange,Once a week,Juice
+473,23,Male,Germany,Mango,2-3 times a week,Fresh
+474,40,Female,France,Strawberry,Daily,Smoothie
+475,53,Male,USA,Apple,Once a week,Fresh
+476,27,Female,Canada,Banana,Once a week,Smoothie
+477,36,Male,UK,Orange,4-5 times a week,Juice
+478,49,Female,Australia,Mango,Once a week,Fresh
+479,24,Male,Germany,Strawberry,Daily,Smoothie
+480,37,Female,France,Apple,4-5 times a week,Fresh
+481,54,Male,USA,Orange,Once a week,Juice
+482,33,Female,Canada,Mango,Daily,Fresh
+483,50,Male,UK,Strawberry,Once a week,Smoothie
+484,28,Female,Australia,Apple,2-3 times a week,Fresh
+485,19,Male,Germany,Banana,Once a week,Smoothie
+486,39,Female,France,Orange,3-4 times a week,Juice
+487,56,Male,USA,Mango,Daily,Fresh
+488,22,Female,Canada,Strawberry,Once a week,Smoothie
+489,48,Male,UK,Apple,4-5 times a week,Fresh
+490,26,Female,Australia,Banana,Once a week,Smoothie
+491,35,Male,Germany,Orange,3-4 times a week,Juice
+492,51,Female,France,Mango,Daily,Fresh
+493,18,Male,USA,Strawberry,Once a week,Smoothie
+494,42,Female,Canada,Apple,4-5 times a week,Fresh
+495,31,Male,UK,Banana,3-4 times a week,Smoothie
+496,46,Female,Australia,Orange,Once a week,Juice
+497,23,Male,Germany,Mango,2-3 times a week,Fresh
+498,40,Female,France,Strawberry,Daily,Smoothie
+499,53,Male,USA,Apple,Once a week,Fresh
+500,27,Female,Canada,Banana,Once a week,Smoothie
+501,36,Male,UK,Orange,4-5 times a week,Juice
+502,49,Female,Australia,Mango,Once a week,Fresh
+503,24,Male,Germany,Strawberry,Daily,Smoothie
+504,37,Female,France,Apple,4-5 times a week,Fresh
+505,54,Male,USA,Orange,Once a week,Juice
+506,33,Female,Canada,Mango,Daily,Fresh
+507,50,Male,UK,Strawberry,Once a week,Smoothie
+508,28,Female,Australia,Apple,2-3 times a week,Fresh
+509,19,Male,Germany,Banana,Once a week,Smoothie
+510,39,Female,France,Orange,3-4 times a week,Juice
+511,56,Male,USA,Mango,Daily,Fresh
+512,22,Female,Canada,Strawberry,Once a week,Smoothie
+513,48,Male,UK,Apple,4-5 times a week,Fresh
+514,26,Female,Australia,Banana,Once a week,Smoothie
+515,35,Male,Germany,Orange,3-4 times a week,Juice
+516,51,Female,France,Mango,Daily,Fresh
+517,18,Male,USA,Strawberry,Once a week,Smoothie
+518,42,Female,Canada,Apple,4-5 times a week,Fresh
+519,31,Male,UK,Banana,3-4 times a week,Smoothie
+520,46,Female,Australia,Orange,Once a week,Juice
+521,23,Male,Germany,Mango,2-3 times a week,Fresh
+522,40,Female,France,Strawberry,Daily,Smoothie
+523,53,Male,USA,Apple,Once a week,Fresh
+524,27,Female,Canada,Banana,Once a week,Smoothie
+525,36,Male,UK,Orange,4-5 times a week,Juice
+526,49,Female,Australia,Mango,Once a week,Fresh
+527,24,Male,Germany,Strawberry,Daily,Smoothie
+528,37,Female,France,Apple,4-5 times a week,Fresh
+529,54,Male,USA,Orange,Once a week,Juice
+530,33,Female,Canada,Mango,Daily,Fresh
+531,50,Male,UK,Strawberry,Once a week,Smoothie
+532,28,Female,Australia,Apple,2-3 times a week,Fresh
+533,19,Male,Germany,Banana,Once a week,Smoothie
+534,39,Female,France,Orange,3-4 times a week,Juice
+535,56,Male,USA,Mango,Daily,Fresh
+536,22,Female,Canada,Strawberry,Once a week,Smoothie
+537,48,Male,UK,Apple,4-5 times a week,Fresh
+538,26,Female,Australia,Banana,Once a week,Smoothie
+539,35,Male,Germany,Orange,3-4 times a week,Juice
+540,51,Female,France,Mango,Daily,Fresh
+541,18,Male,USA,Strawberry,Once a week,Smoothie
+542,42,Female,Canada,Apple,4-5 times a week,Fresh
+543,31,Male,UK,Banana,3-4 times a week,Smoothie
+544,46,Female,Australia,Orange,Once a week,Juice
+545,23,Male,Germany,Mango,2-3 times a week,Fresh
+546,40,Female,France,Strawberry,Daily,Smoothie
+547,53,Male,USA,Apple,Once a week,Fresh
+548,27,Female,Canada,Banana,Once a week,Smoothie
+549,36,Male,UK,Orange,4-5 times a week,Juice
+550,49,Female,Australia,Mango,Once a week,Fresh
+551,24,Male,Germany,Strawberry,Daily,Smoothie
+552,37,Female,France,Apple,4-5 times a week,Fresh
+553,54,Male,USA,Orange,Once a week,Juice
+554,33,Female,Canada,Mango,Daily,Fresh
+555,50,Male,UK,Strawberry,Once a week,Smoothie
+556,28,Female,Australia,Apple,2-3 times a week,Fresh
+557,19,Male,Germany,Banana,Once a week,Smoothie
+558,39,Female,France,Orange,3-4 times a week,Juice
+559,56,Male,USA,Mango,Daily,Fresh
+560,22,Female,Canada,Strawberry,Once a week,Smoothie
+561,48,Male,UK,Apple,4-5 times a week,Fresh
+562,26,Female,Australia,Banana,Once a week,Smoothie
+563,35,Male,Germany,Orange,3-4 times a week,Juice
+564,51,Female,France,Mango,Daily,Fresh
+565,18,Male,USA,Strawberry,Once a week,Smoothie
+566,42,Female,Canada,Apple,4-5 times a week,Fresh
+567,31,Male,UK,Banana,3-4 times a week,Smoothie
+568,46,Female,Australia,Orange,Once a week,Juice
+569,23,Male,Germany,Mango,2-3 times a week,Fresh
+570,40,Female,France,Strawberry,Daily,Smoothie
+571,53,Male,USA,Apple,Once a week,Fresh
+572,27,Female,Canada,Banana,Once a week,Smoothie
+573,36,Male,UK,Orange,4-5 times a week,Juice
+574,49,Female,Australia,Mango,Once a week,Fresh
+575,24,Male,Germany,Strawberry,Daily,Smoothie
+576,37,Female,France,Apple,4-5 times a week,Fresh
+577,54,Male,USA,Orange,Once a week,Juice
+578,33,Female,Canada,Mango,Daily,Fresh
+579,50,Male,UK,Strawberry,Once a week,Smoothie
+580,28,Female,Australia,Apple,2-3 times a week,Fresh
+581,19,Male,Germany,Banana,Once a week,Smoothie
+582,39,Female,France,Orange,3-4 times a week,Juice
+583,56,Male,USA,Mango,Daily,Fresh
+584,22,Female,Canada,Strawberry,Once a week,Smoothie
+585,48,Male,UK,Apple,4-5 times a week,Fresh
+586,26,Female,Australia,Banana,Once a week,Smoothie
+587,35,Male,Germany,Orange,3-4 times a week,Juice
+588,51,Female,France,Mango,Daily,Fresh
+589,18,Male,USA,Strawberry,Once a week,Smoothie
+590,42,Female,Canada,Apple,4-5 times a week,Fresh
+591,31,Male,UK,Banana,3-4 times a week,Smoothie
+592,46,Female,Australia,Orange,Once a week,Juice
+593,23,Male,Germany,Mango,2-3 times a week,Fresh
+594,40,Female,France,Strawberry,Daily,Smoothie
+595,53,Male,USA,Apple,Once a week,Fresh
+596,27,Female,Canada,Banana,Once a week,Smoothie
+597,36,Male,UK,Orange,4-5 times a week,Juice
+598,49,Female,Australia,Mango,Once a week,Fresh
+599,24,Male,Germany,Strawberry,Daily,Smoothie
+600,37,Female,France,Apple,4-5 times a week,Fresh
+601,54,Male,USA,Orange,Once a week,Juice
+602,33,Female,Canada,Mango,Daily,Fresh
+603,50,Male,UK,Strawberry,Once a week,Smoothie
+604,28,Female,Australia,Apple,2-3 times a week,Fresh
+605,19,Male,Germany,Banana,Once a week,Smoothie
+606,39,Female,France,Orange,3-4 times a week,Juice
+607,56,Male,USA,Mango,Daily,Fresh
+608,22,Female,Canada,Strawberry,Once a week,Smoothie
+609,48,Male,UK,Apple,4-5 times a week,Fresh
+610,26,Female,Australia,Banana,Once a week,Smoothie
+611,35,Male,Germany,Orange,3-4 times a week,Juice
+612,51,Female,France,Mango,Daily,Fresh
+613,18,Male,USA,Strawberry,Once a week,Smoothie
+614,42,Female,Canada,Apple,4-5 times a week,Fresh
+615,31,Male,UK,Banana,3-4 times a week,Smoothie
+616,46,Female,Australia,Orange,Once a week,Juice
+617,23,Male,Germany,Mango,2-3 times a week,Fresh
+618,40,Female,France,Strawberry,Daily,Smoothie
+619,53,Male,USA,Apple,Once a week,Fresh
+620,27,Female,Canada,Banana,Once a week,Smoothie
+621,36,Male,UK,Orange,4-5 times a week,Juice
+622,49,Female,Australia,Mango,Once a week,Fresh
+623,24,Male,Germany,Strawberry,Daily,Smoothie
+624,37,Female,France,Apple,4-5 times a week,Fresh
+625,54,Male,USA,Orange,Once a week,Juice
+626,33,Female,Canada,Mango,Daily,Fresh
+627,50,Male,UK,Strawberry,Once a week,Smoothie
+628,28,Female,Australia,Apple,2-3 times a week,Fresh
+629,19,Male,Germany,Banana,Once a week,Smoothie
+630,39,Female,France,Orange,3-4 times a week,Juice
+631,56,Male,USA,Mango,Daily,Fresh
+632,22,Female,Canada,Strawberry,Once a week,Smoothie
+633,48,Male,UK,Apple,4-5 times a week,Fresh
+634,26,Female,Australia,Banana,Once a week,Smoothie
+635,35,Male,Germany,Orange,3-4 times a week,Juice
+636,51,Female,France,Mango,Daily,Fresh
+637,18,Male,USA,Strawberry,Once a week,Smoothie
+638,42,Female,Canada,Apple,4-5 times a week,Fresh
+639,31,Male,UK,Banana,3-4 times a week,Smoothie
+640,46,Female,Australia,Orange,Once a week,Juice
+641,23,Male,Germany,Mango,2-3 times a week,Fresh
+642,40,Female,France,Strawberry,Daily,Smoothie
+643,53,Male,USA,Apple,Once a week,Fresh
+644,27,Female,Canada,Banana,Once a week,Smoothie
+645,36,Male,UK,Orange,4-5 times a week,Juice
+646,49,Female,Australia,Mango,Once a week,Fresh
+647,24,Male,Germany,Strawberry,Daily,Smoothie
+648,37,Female,France,Apple,4-5 times a week,Fresh
+649,54,Male,USA,Orange,Once a week,Juice
+650,33,Female,Canada,Mango,Daily,Fresh
+651,50,Male,UK,Strawberry,Once a week,Smoothie
+652,28,Female,Australia,Apple,2-3 times a week,Fresh
+653,19,Male,Germany,Banana,Once a week,Smoothie
+654,39,Female,France,Orange,3-4 times a week,Juice
+655,56,Male,USA,Mango,Daily,Fresh
+656,22,Female,Canada,Strawberry,Once a week,Smoothie
+657,48,Male,UK,Apple,4-5 times a week,Fresh
+658,26,Female,Australia,Banana,Once a week,Smoothie
+659,35,Male,Germany,Orange,3-4 times a week,Juice
+660,51,Female,France,Mango,Daily,Fresh
+661,18,Male,USA,Strawberry,Once a week,Smoothie
+662,42,Female,Canada,Apple,4-5 times a week,Fresh
+663,31,Male,UK,Banana,3-4 times a week,Smoothie
+664,46,Female,Australia,Orange,Once a week,Juice
+665,23,Male,Germany,Mango,2-3 times a week,Fresh
+666,40,Female,France,Strawberry,Daily,Smoothie
+667,53,Male,USA,Apple,Once a week,Fresh
+668,27,Female,Canada,Banana,Once a week,Smoothie
+669,36,Male,UK,Orange,4-5 times a week,Juice
+670,49,Female,Australia,Mango,Once a week,Fresh
+671,24,Male,Germany,Strawberry,Daily,Smoothie
+672,37,Female,France,Apple,4-5 times a week,Fresh
+673,54,Male,USA,Orange,Once a week,Juice
+674,33,Female,Canada,Mango,Daily,Fresh
+675,50,Male,UK,Strawberry,Once a week,Smoothie
+676,28,Female,Australia,Apple,2-3 times a week,Fresh
+677,19,Male,Germany,Banana,Once a week,Smoothie
+678,39,Female,France,Orange,3-4 times a week,Juice
+679,56,Male,USA,Mango,Daily,Fresh
+680,22,Female,Canada,Strawberry,Once a week,Smoothie
+681,48,Male,UK,Apple,4-5 times a week,Fresh
+682,26,Female,Australia,Banana,Once a week,Smoothie
+683,35,Male,Germany,Orange,3-4 times a week,Juice
+684,51,Female,France,Mango,Daily,Fresh
+685,18,Male,USA,Strawberry,Once a week,Smoothie
+686,42,Female,Canada,Apple,4-5 times a week,Fresh
+687,31,Male,UK,Banana,3-4 times a week,Smoothie
+688,46,Female,Australia,Orange,Once a week,Juice
+689,23,Male,Germany,Mango,2-3 times a week,Fresh
+690,40,Female,France,Strawberry,Daily,Smoothie
+691,53,Male,USA,Apple,Once a week,Fresh
+692,27,Female,Canada,Banana,Once a week,Smoothie
+693,36,Male,UK,Orange,4-5 times a week,Juice
+694,49,Female,Australia,Mango,Once a week,Fresh
+695,24,Male,Germany,Strawberry,Daily,Smoothie
+696,37,Female,France,Apple,4-5 times a week,Fresh
+697,54,Male,USA,Orange,Once a week,Juice
+698,33,Female,Canada,Mango,Daily,Fresh
+699,50,Male,UK,Strawberry,Once a week,Smoothie
+700,28,Female,Australia,Apple,2-3 times a week,Fresh
+701,19,Male,Germany,Banana,Once a week,Smoothie
+702,39,Female,France,Orange,3-4 times a week,Juice
+703,56,Male,USA,Mango,Daily,Fresh
+704,22,Female,Canada,Strawberry,Once a week,Smoothie
+705,48,Male,UK,Apple,4-5 times a week,Fresh
+706,26,Female,Australia,Banana,Once a week,Smoothie
+707,35,Male,Germany,Orange,3-4 times a week,Juice
+708,51,Female,France,Mango,Daily,Fresh
+709,18,Male,USA,Strawberry,Once a week,Smoothie
+710,42,Female,Canada,Apple,4-5 times a week,Fresh
+711,31,Male,UK,Banana,3-4 times a week,Smoothie
+712,46,Female,Australia,Orange,Once a week,Juice
+713,23,Male,Germany,Mango,2-3 times a week,Fresh
+714,40,Female,France,Strawberry,Daily,Smoothie
+715,53,Male,USA,Apple,Once a week,Fresh
+716,27,Female,Canada,Banana,Once a week,Smoothie
+717,36,Male,UK,Orange,4-5 times a week,Juice
+718,49,Female,Australia,Mango,Once a week,Fresh
+719,24,Male,Germany,Strawberry,Daily,Smoothie
+720,37,Female,France,Apple,4-5 times a week,Fresh
+721,54,Male,USA,Orange,Once a week,Juice
+722,33,Female,Canada,Mango,Daily,Fresh
+723,50,Male,UK,Strawberry,Once a week,Smoothie
+724,28,Female,Australia,Apple,2-3 times a week,Fresh
+725,19,Male,Germany,Banana,Once a week,Smoothie
+726,39,Female,France,Orange,3-4 times a week,Juice
+727,56,Male,USA,Mango,Daily,Fresh
+728,22,Female,Canada,Strawberry,Once a week,Smoothie
+729,48,Male,UK,Apple,4-5 times a week,Fresh
+730,26,Female,Australia,Banana,Once a week,Smoothie
+731,35,Male,Germany,Orange,3-4 times a week,Juice
+732,51,Female,France,Mango,Daily,Fresh
+733,18,Male,USA,Strawberry,Once a week,Smoothie
+734,42,Female,Canada,Apple,4-5 times a week,Fresh
+735,31,Male,UK,Banana,3-4 times a week,Smoothie
+736,46,Female,Australia,Orange,Once a week,Juice
+737,23,Male,Germany,Mango,2-3 times a week,Fresh
+738,40,Female,France,Strawberry,Daily,Smoothie
+739,53,Male,USA,Apple,Once a week,Fresh
+740,27,Female,Canada,Banana,Once a week,Smoothie
+741,36,Male,UK,Orange,4-5 times a week,Juice
+742,49,Female,Australia,Mango,Once a week,Fresh
+743,24,Male,Germany,Strawberry,Daily,Smoothie
+744,37,Female,France,Apple,4-5 times a week,Fresh
+745,54,Male,USA,Orange,Once a week,Juice
+746,33,Female,Canada,Mango,Daily,Fresh
+747,50,Male,UK,Strawberry,Once a week,Smoothie
+748,28,Female,Australia,Apple,2-3 times a week,Fresh
+749,19,Male,Germany,Banana,Once a week,Smoothie
+750,39,Female,France,Orange,3-4 times a week,Juice
+751,56,Male,USA,Mango,Daily,Fresh
+752,22,Female,Canada,Strawberry,Once a week,Smoothie
+753,48,Male,UK,Apple,4-5 times a week,Fresh
+754,26,Female,Australia,Banana,Once a week,Smoothie
+755,35,Male,Germany,Orange,3-4 times a week,Juice
+756,51,Female,France,Mango,Daily,Fresh
+757,18,Male,USA,Strawberry,Once a week,Smoothie
+758,42,Female,Canada,Apple,4-5 times a week,Fresh
+759,31,Male,UK,Banana,3-4 times a week,Smoothie
+760,46,Female,Australia,Orange,Once a week,Juice
+761,23,Male,Germany,Mango,2-3 times a week,Fresh
+762,40,Female,France,Strawberry,Daily,Smoothie
+763,53,Male,USA,Apple,Once a week,Fresh
+764,27,Female,Canada,Banana,Once a week,Smoothie
+765,36,Male,UK,Orange,4-5 times a week,Juice
+766,49,Female,Australia,Mango,Once a week,Fresh
+767,24,Male,Germany,Strawberry,Daily,Smoothie
+768,37,Female,France,Apple,4-5 times a week,Fresh
+769,54,Male,USA,Orange,Once a week,Juice
+770,33,Female,Canada,Mango,Daily,Fresh
+771,50,Male,UK,Strawberry,Once a week,Smoothie
+772,28,Female,Australia,Apple,2-3 times a week,Fresh
+773,19,Male,Germany,Banana,Once a week,Smoothie
+774,39,Female,France,Orange,3-4 times a week,Juice
+775,56,Male,USA,Mango,Daily,Fresh
+776,22,Female,Canada,Strawberry,Once a week,Smoothie
+777,48,Male,UK,Apple,4-5 times a week,Fresh
+778,26,Female,Australia,Banana,Once a week,Smoothie
+779,35,Male,Germany,Orange,3-4 times a week,Juice
+780,51,Female,France,Mango,Daily,Fresh
+781,18,Male,USA,Strawberry,Once a week,Smoothie
+782,42,Female,Canada,Apple,4-5 times a week,Fresh
+783,31,Male,UK,Banana,3-4 times a week,Smoothie
+784,46,Female,Australia,Orange,Once a week,Juice
+785,23,Male,Germany,Mango,2-3 times a week,Fresh
+786,40,Female,France,Strawberry,Daily,Smoothie
+787,53,Male,USA,Apple,Once a week,Fresh
+788,27,Female,Canada,Banana,Once a week,Smoothie
+789,36,Male,UK,Orange,4-5 times a week,Juice
+790,49,Female,Australia,Mango,Once a week,Fresh
+791,24,Male,Germany,Strawberry,Daily,Smoothie
+792,37,Female,France,Apple,4-5 times a week,Fresh
+793,54,Male,USA,Orange,Once a week,Juice
+794,33,Female,Canada,Mango,Daily,Fresh
+795,50,Male,UK,Strawberry,Once a week,Smoothie
+796,28,Female,Australia,Apple,2-3 times a week,Fresh
+797,19,Male,Germany,Banana,Once a week,Smoothie
+798,39,Female,France,Orange,3-4 times a week,Juice
+799,56,Male,USA,Mango,Daily,Fresh
+800,22,Female,Canada,Strawberry,Once a week,Smoothie
+801,48,Male,UK,Apple,4-5 times a week,Fresh
+802,26,Female,Australia,Banana,Once a week,Smoothie
+803,35,Male,Germany,Orange,3-4 times a week,Juice
+804,51,Female,France,Mango,Daily,Fresh
+805,18,Male,USA,Strawberry,Once a week,Smoothie
+806,42,Female,Canada,Apple,4-5 times a week,Fresh
+807,31,Male,UK,Banana,3-4 times a week,Smoothie
+808,46,Female,Australia,Orange,Once a week,Juice
+809,23,Male,Germany,Mango,2-3 times a week,Fresh
+810,40,Female,France,Strawberry,Daily,Smoothie
+811,53,Male,USA,Apple,Once a week,Fresh
+812,27,Female,Canada,Banana,Once a week,Smoothie
+813,36,Male,UK,Orange,4-5 times a week,Juice
+814,49,Female,Australia,Mango,Once a week,Fresh
+815,24,Male,Germany,Strawberry,Daily,Smoothie
+816,37,Female,France,Apple,4-5 times a week,Fresh
+817,54,Male,USA,Orange,Once a week,Juice
+818,33,Female,Canada,Mango,Daily,Fresh
+819,50,Male,UK,Strawberry,Once a week,Smoothie
+820,28,Female,Australia,Apple,2-3 times a week,Fresh
+821,19,Male,Germany,Banana,Once a week,Smoothie
+822,39,Female,France,Orange,3-4 times a week,Juice
+823,56,Male,USA,Mango,Daily,Fresh
+824,22,Female,Canada,Strawberry,Once a week,Smoothie
+825,48,Male,UK,Apple,4-5 times a week,Fresh
+826,26,Female,Australia,Banana,Once a week,Smoothie
+827,35,Male,Germany,Orange,3-4 times a week,Juice
+828,51,Female,France,Mango,Daily,Fresh
+829,18,Male,USA,Strawberry,Once a week,Smoothie
+830,42,Female,Canada,Apple,4-5 times a week,Fresh
+831,31,Male,UK,Banana,3-4 times a week,Smoothie
+832,46,Female,Australia,Orange,Once a week,Juice
+833,23,Male,Germany,Mango,2-3 times a week,Fresh
+834,40,Female,France,Strawberry,Daily,Smoothie
+835,53,Male,USA,Apple,Once a week,Fresh
+836,27,Female,Canada,Banana,Once a week,Smoothie
+837,36,Male,UK,Orange,4-5 times a week,Juice
+838,49,Female,Australia,Mango,Once a week,Fresh
+839,24,Male,Germany,Strawberry,Daily,Smoothie
+840,37,Female,France,Apple,4-5 times a week,Fresh
+841,54,Male,USA,Orange,Once a week,Juice
+842,33,Female,Canada,Mango,Daily,Fresh
+843,50,Male,UK,Strawberry,Once a week,Smoothie
+844,28,Female,Australia,Apple,2-3 times a week,Fresh
+845,19,Male,Germany,Banana,Once a week,Smoothie
+846,39,Female,France,Orange,3-4 times a week,Juice
+847,56,Male,USA,Mango,Daily,Fresh
+848,22,Female,Canada,Strawberry,Once a week,Smoothie
+849,48,Male,UK,Apple,4-5 times a week,Fresh
+850,26,Female,Australia,Banana,Once a week,Smoothie
+851,35,Male,Germany,Orange,3-4 times a week,Juice
+852,51,Female,France,Mango,Daily,Fresh
+853,18,Male,USA,Strawberry,Once a week,Smoothie
+854,42,Female,Canada,Apple,4-5 times a week,Fresh
+855,31,Male,UK,Banana,3-4 times a week,Smoothie
+856,46,Female,Australia,Orange,Once a week,Juice
+857,23,Male,Germany,Mango,2-3 times a week,Fresh
+858,40,Female,France,Strawberry,Daily,Smoothie
+859,53,Male,USA,Apple,Once a week,Fresh
+860,27,Female,Canada,Banana,Once a week,Smoothie
+861,36,Male,UK,Orange,4-5 times a week,Juice
+862,49,Female,Australia,Mango,Once a week,Fresh
+863,24,Male,Germany,Strawberry,Daily,Smoothie
+864,37,Female,France,Apple,4-5 times a week,Fresh
+865,54,Male,USA,Orange,Once a week,Juice
+866,33,Female,Canada,Mango,Daily,Fresh
+867,50,Male,UK,Strawberry,Once a week,Smoothie
+868,28,Female,Australia,Apple,2-3 times a week,Fresh
+869,19,Male,Germany,Banana,Once a week,Smoothie
+870,39,Female,France,Orange,3-4 times a week,Juice
+871,56,Male,USA,Mango,Daily,Fresh
+872,22,Female,Canada,Strawberry,Once a week,Smoothie
+873,48,Male,UK,Apple,4-5 times a week,Fresh
+874,26,Female,Australia,Banana,Once a week,Smoothie
+875,35,Male,Germany,Orange,3-4 times a week,Juice
+876,51,Female,France,Mango,Daily,Fresh
+877,18,Male,USA,Strawberry,Once a week,Smoothie
+878,42,Female,Canada,Apple,4-5 times a week,Fresh
+879,31,Male,UK,Banana,3-4 times a week,Smoothie
+880,46,Female,Australia,Orange,Once a week,Juice
+881,23,Male,Germany,Mango,2-3 times a week,Fresh
+882,40,Female,France,Strawberry,Daily,Smoothie
+883,53,Male,USA,Apple,Once a week,Fresh
+884,27,Female,Canada,Banana,Once a week,Smoothie
+885,36,Male,UK,Orange,4-5 times a week,Juice
+886,49,Female,Australia,Mango,Once a week,Fresh
+887,24,Male,Germany,Strawberry,Daily,Smoothie
+888,37,Female,France,Apple,4-5 times a week,Fresh
+889,54,Male,USA,Orange,Once a week,Juice
+890,33,Female,Canada,Mango,Daily,Fresh
+891,50,Male,UK,Strawberry,Once a week,Smoothie
+892,28,Female,Australia,Apple,2-3 times a week,Fresh
+893,19,Male,Germany,Banana,Once a week,Smoothie
+894,39,Female,France,Orange,3-4 times a week,Juice
+895,56,Male,USA,Mango,Daily,Fresh
+896,22,Female,Canada,Strawberry,Once a week,Smoothie
+897,48,Male,UK,Apple,4-5 times a week,Fresh
+898,26,Female,Australia,Banana,Once a week,Smoothie
+899,35,Male,Germany,Orange,3-4 times a week,Juice
+900,51,Female,France,Mango,Daily,Fresh
+901,18,Male,USA,Strawberry,Once a week,Smoothie
+902,42,Female,Canada,Apple,4-5 times a week,Fresh
+903,31,Male,UK,Banana,3-4 times a week,Smoothie
+904,46,Female,Australia,Orange,Once a week,Juice
+905,23,Male,Germany,Mango,2-3 times a week,Fresh
+906,40,Female,France,Strawberry,Daily,Smoothie
+907,53,Male,USA,Apple,Once a week,Fresh
+908,27,Female,Canada,Banana,Once a week,Smoothie
+909,36,Male,UK,Orange,4-5 times a week,Juice
+910,49,Female,Australia,Mango,Once a week,Fresh
+911,24,Male,Germany,Strawberry,Daily,Smoothie
+912,37,Female,France,Apple,4-5 times a week,Fresh
+913,54,Male,USA,Orange,Once a week,Juice
+914,33,Female,Canada,Mango,Daily,Fresh
+915,50,Male,UK,Strawberry,Once a week,Smoothie
+916,28,Female,Australia,Apple,2-3 times a week,Fresh
+917,19,Male,Germany,Banana,Once a week,Smoothie
+918,39,Female,France,Orange,3-4 times a week,Juice
+919,56,Male,USA,Mango,Daily,Fresh
+920,22,Female,Canada,Strawberry,Once a week,Smoothie
+921,48,Male,UK,Apple,4-5 times a week,Fresh
+922,26,Female,Australia,Banana,Once a week,Smoothie
+923,35,Male,Germany,Orange,3-4 times a week,Juice
+924,51,Female,France,Mango,Daily,Fresh
+925,18,Male,USA,Strawberry,Once a week,Smoothie
+926,42,Female,Canada,Apple,4-5 times a week,Fresh
+927,31,Male,UK,Banana,3-4 times a week,Smoothie
+928,46,Female,Australia,Orange,Once a week,Juice
+929,23,Male,Germany,Mango,2-3 times a week,Fresh
+930,40,Female,France,Strawberry,Daily,Smoothie
+931,53,Male,USA,Apple,Once a week,Fresh
+932,27,Female,Canada,Banana,Once a week,Smoothie
+933,36,Male,UK,Orange,4-5 times a week,Juice
+934,49,Female,Australia,Mango,Once a week,Fresh
+935,24,Male,Germany,Strawberry,Daily,Smoothie
+936,37,Female,France,Apple,4-5 times a week,Fresh
+937,54,Male,USA,Orange,Once a week,Juice
+938,33,Female,Canada,Mango,Daily,Fresh
+939,50,Male,UK,Strawberry,Once a week,Smoothie
+940,28,Female,Australia,Apple,2-3 times a week,Fresh
+941,19,Male,Germany,Banana,Once a week,Smoothie
+942,39,Female,France,Orange,3-4 times a week,Juice
+943,56,Male,USA,Mango,Daily,Fresh
+944,22,Female,Canada,Strawberry,Once a week,Smoothie
+945,48,Male,UK,Apple,4-5 times a week,Fresh
+946,26,Female,Australia,Banana,Once a week,Smoothie
+947,35,Male,Germany,Orange,3-4 times a week,Juice
+948,51,Female,France,Mango,Daily,Fresh
+949,18,Male,USA,Strawberry,Once a week,Smoothie
+950,42,Female,Canada,Apple,4-5 times a week,Fresh
+951,31,Male,UK,Banana,3-4 times a week,Smoothie
+952,46,Female,Australia,Orange,Once a week,Juice
+953,23,Male,Germany,Mango,2-3 times a week,Fresh
+954,40,Female,France,Strawberry,Daily,Smoothie
+955,53,Male,USA,Apple,Once a week,Fresh
+956,27,Female,Canada,Banana,Once a week,Smoothie
+957,36,Male,UK,Orange,4-5 times a week,Juice
+958,49,Female,Australia,Mango,Once a week,Fresh
+959,24,Male,Germany,Strawberry,Daily,Smoothie
+960,37,Female,France,Apple,4-5 times a week,Fresh
+961,54,Male,USA,Orange,Once a week,Juice
+962,33,Female,Canada,Mango,Daily,Fresh
+963,50,Male,UK,Strawberry,Once a week,Smoothie
+964,28,Female,Australia,Apple,2-3 times a week,Fresh
+965,19,Male,Germany,Banana,Once a week,Smoothie
+966,39,Female,France,Orange,3-4 times a week,Juice
+967,56,Male,USA,Mango,Daily,Fresh
+968,22,Female,Canada,Strawberry,Once a week,Smoothie
+969,48,Male,UK,Apple,4-5 times a week,Fresh
+970,26,Female,Australia,Banana,Once a week,Smoothie
+971,35,Male,Germany,Orange,3-4 times a week,Juice
+972,51,Female,France,Mango,Daily,Fresh
+973,18,Male,USA,Strawberry,Once a week,Smoothie
+974,42,Female,Canada,Apple,4-5 times a week,Fresh
+975,31,Male,UK,Banana,3-4 times a week,Smoothie
+976,46,Female,Australia,Orange,Once a week,Juice
+977,23,Male,Germany,Mango,2-3 times a week,Fresh
+978,40,Female,France,Strawberry,Daily,Smoothie
+979,53,Male,USA,Apple,Once a week,Fresh
+980,27,Female,Canada,Banana,Once a week,Smoothie
+981,36,Male,UK,Orange,4-5 times a week,Juice
+982,49,Female,Australia,Mango,Once a week,Fresh
+983,24,Male,Germany,Strawberry,Daily,Smoothie
+984,37,Female,France,Apple,4-5 times a week,Fresh
+985,54,Male,USA,Orange,Once a week,Juice
+986,33,Female,Canada,Mango,Daily,Fresh
+987,50,Male,UK,Strawberry,Once a week,Smoothie
+988,28,Female,Australia,Apple,2-3 times a week,Fresh
+989,19,Male,Germany,Banana,Once a week,Smoothie
+990,39,Female,France,Orange,3-4 times a week,Juice
+991,56,Male,USA,Mango,Daily,Fresh
+992,22,Female,Canada,Strawberry,Once a week,Smoothie
+993,48,Male,UK,Apple,4-5 times a week,Fresh
+994,26,Female,Australia,Banana,Once a week,Smoothie
+995,35,Male,Germany,Orange,3-4 times a week,Juice
+996,51,Female,France,Mango,Daily,Fresh
+997,18,Male,USA,Strawberry,Once a week,Smoothie
+998,42,Female,Canada,Apple,4-5 times a week,Fresh
+999,31,Male,UK,Banana,3-4 times a week,Smoothie
+1000,46,Female,Australia,Orange,Once a week,Juice
+1001,23,Male,Germany,Mango,2-3 times a week,Fresh
+1002,40,Female,France,Strawberry,Daily,Smoothie
+1003,53,Male,USA,Apple,Once a week,Fresh
+1004,27,Female,Canada,Banana,Once a week,Smoothie
+1005,36,Male,UK,Orange,4-5 times a week,Juice
+1006,49,Female,Australia,Mango,Once a week,Fresh
+1007,24,Male,Germany,Strawberry,Daily,Smoothie
+1008,37,Female,France,Apple,4-5 times a week,Fresh
+1009,54,Male,USA,Orange,Once a week,Juice
+1010,33,Female,Canada,Mango,Daily,Fresh
+1011,50,Male,UK,Strawberry,Once a week,Smoothie
+1012,28,Female,Australia,Apple,2-3 times a week,Fresh
+1013,19,Male,Germany,Banana,Once a week,Smoothie
+1014,39,Female,France,Orange,3-4 times a week,Juice
+1015,56,Male,USA,Mango,Daily,Fresh
+1016,22,Female,Canada,Strawberry,Once a week,Smoothie
+1017,48,Male,UK,Apple,4-5 times a week,Fresh
+1018,26,Female,Australia,Banana,Once a week,Smoothie
+1019,35,Male,Germany,Orange,3-4 times a week,Juice
+1020,51,Female,France,Mango,Daily,Fresh
+1021,18,Male,USA,Strawberry,Once a week,Smoothie
+1022,42,Female,Canada,Apple,4-5 times a week,Fresh
+1023,31,Male,UK,Banana,3-4 times a week,Smoothie
+1024,46,Female,Australia,Orange,Once a week,Juice
+1025,23,Male,Germany,Mango,2-3 times a week,Fresh
+1026,40,Female,France,Strawberry,Daily,Smoothie
+1027,53,Male,USA,Apple,Once a week,Fresh
+1028,27,Female,Canada,Banana,Once a week,Smoothie
+1029,36,Male,UK,Orange,4-5 times a week,Juice
+1030,49,Female,Australia,Mango,Once a week,Fresh
+1031,24,Male,Germany,Strawberry,Daily,Smoothie
+1032,37,Female,France,Apple,4-5 times a week,Fresh
+1033,54,Male,USA,Orange,Once a week,Juice
+1034,33,Female,Canada,Mango,Daily,Fresh
+1035,50,Male,UK,Strawberry,Once a week,Smoothie
+1036,28,Female,Australia,Apple,2-3 times a week,Fresh
+1037,19,Male,Germany,Banana,Once a week,Smoothie
+1038,39,Female,France,Orange,3-4 times a week,Juice
+1039,56,Male,USA,Mango,Daily,Fresh
+1040,22,Female,Canada,Strawberry,Once a week,Smoothie
+1041,48,Male,UK,Apple,4-5 times a week,Fresh
+1042,26,Female,Australia,Banana,Once a week,Smoothie
+1043,35,Male,Germany,Orange,3-4 times a week,Juice
+1044,51,Female,France,Mango,Daily,Fresh
+1045,18,Male,USA,Strawberry,Once a week,Smoothie
+1046,42,Female,Canada,Apple,4-5 times a week,Fresh
+1047,31,Male,UK,Banana,3-4 times a week,Smoothie
+1048,46,Female,Australia,Orange,Once a week,Juice
+1049,23,Male,Germany,Mango,2-3 times a week,Fresh
+1050,40,Female,France,Strawberry,Daily,Smoothie
+1051,53,Male,USA,Apple,Once a week,Fresh
+1052,27,Female,Canada,Banana,Once a week,Smoothie
+1053,36,Male,UK,Orange,4-5 times a week,Juice
+1054,49,Female,Australia,Mango,Once a week,Fresh
+1055,24,Male,Germany,Strawberry,Daily,Smoothie
+1056,37,Female,France,Apple,4-5 times a week,Fresh
+1057,54,Male,USA,Orange,Once a week,Juice
+1058,33,Female,Canada,Mango,Daily,Fresh
+1059,50,Male,UK,Strawberry,Once a week,Smoothie
+1060,28,Female,Australia,Apple,2-3 times a week,Fresh
+1061,19,Male,Germany,Banana,Once a week,Smoothie
+1062,39,Female,France,Orange,3-4 times a week,Juice
+1063,56,Male,USA,Mango,Daily,Fresh
+1064,22,Female,Canada,Strawberry,Once a week,Smoothie
+1065,48,Male,UK,Apple,4-5 times a week,Fresh
+1066,26,Female,Australia,Banana,Once a week,Smoothie
+1067,35,Male,Germany,Orange,3-4 times a week,Juice
+1068,51,Female,France,Mango,Daily,Fresh
+1069,18,Male,USA,Strawberry,Once a week,Smoothie
+1070,42,Female,Canada,Apple,4-5 times a week,Fresh
+1071,31,Male,UK,Banana,3-4 times a week,Smoothie
+1072,46,Female,Australia,Orange,Once a week,Juice
+1073,23,Male,Germany,Mango,2-3 times a week,Fresh
+1074,40,Female,France,Strawberry,Daily,Smoothie
+1075,53,Male,USA,Apple,Once a week,Fresh
+1076,27,Female,Canada,Banana,Once a week,Smoothie
+1077,36,Male,UK,Orange,4-5 times a week,Juice
+1078,49,Female,Australia,Mango,Once a week,Fresh
+1079,24,Male,Germany,Strawberry,Daily,Smoothie
+1080,37,Female,France,Apple,4-5 times a week,Fresh
+1081,54,Male,USA,Orange,Once a week,Juice
+1082,33,Female,Canada,Mango,Daily,Fresh
+1083,50,Male,UK,Strawberry,Once a week,Smoothie
+1084,28,Female,Australia,Apple,2-3 times a week,Fresh
+1085,19,Male,Germany,Banana,Once a week,Smoothie
+1086,39,Female,France,Orange,3-4 times a week,Juice
+1087,56,Male,USA,Mango,Daily,Fresh
+1088,22,Female,Canada,Strawberry,Once a week,Smoothie
+1089,48,Male,UK,Apple,4-5 times a week,Fresh
+1090,26,Female,Australia,Banana,Once a week,Smoothie
+1091,35,Male,Germany,Orange,3-4 times a week,Juice
+1092,51,Female,France,Mango,Daily,Fresh
+1093,18,Male,USA,Strawberry,Once a week,Smoothie
+1094,42,Female,Canada,Apple,4-5 times a week,Fresh
+1095,31,Male,UK,Banana,3-4 times a week,Smoothie
+1096,46,Female,Australia,Orange,Once a week,Juice
+1097,23,Male,Germany,Mango,2-3 times a week,Fresh
+1098,40,Female,France,Strawberry,Daily,Smoothie
+1099,53,Male,USA,Apple,Once a week,Fresh
+1100,27,Female,Canada,Banana,Once a week,Smoothie
+1101,36,Male,UK,Orange,4-5 times a week,Juice
+1102,49,Female,Australia,Mango,Once a week,Fresh
+1103,24,Male,Germany,Strawberry,Daily,Smoothie
+1104,37,Female,France,Apple,4-5 times a week,Fresh
+1105,54,Male,USA,Orange,Once a week,Juice
+1106,33,Female,Canada,Mango,Daily,Fresh
+1107,50,Male,UK,Strawberry,Once a week,Smoothie
+1108,28,Female,Australia,Apple,2-3 times a week,Fresh
+1109,19,Male,Germany,Banana,Once a week,Smoothie
+1110,39,Female,France,Orange,3-4 times a week,Juice
+1111,56,Male,USA,Mango,Daily,Fresh
+1112,22,Female,Canada,Strawberry,Once a week,Smoothie
+1113,48,Male,UK,Apple,4-5 times a week,Fresh
+1114,26,Female,Australia,Banana,Once a week,Smoothie
+1115,35,Male,Germany,Orange,3-4 times a week,Juice
+1116,51,Female,France,Mango,Daily,Fresh
+1117,18,Male,USA,Strawberry,Once a week,Smoothie
+1118,42,Female,Canada,Apple,4-5 times a week,Fresh
+1119,31,Male,UK,Banana,3-4 times a week,Smoothie
+1120,46,Female,Australia,Orange,Once a week,Juice
+1121,23,Male,Germany,Mango,2-3 times a week,Fresh
+1122,40,Female,France,Strawberry,Daily,Smoothie
+1123,53,Male,USA,Apple,Once a week,Fresh
+1124,27,Female,Canada,Banana,Once a week,Smoothie
+1125,36,Male,UK,Orange,4-5 times a week,Juice
+1126,49,Female,Australia,Mango,Once a week,Fresh
+1127,24,Male,Germany,Strawberry,Daily,Smoothie
+1128,37,Female,France,Apple,4-5 times a week,Fresh
+1129,54,Male,USA,Orange,Once a week,Juice
+1130,33,Female,Canada,Mango,Daily,Fresh
+1131,50,Male,UK,Strawberry,Once a week,Smoothie
+1132,28,Female,Australia,Apple,2-3 times a week,Fresh
+1133,19,Male,Germany,Banana,Once a week,Smoothie
+1134,39,Female,France,Orange,3-4 times a week,Juice
+1135,56,Male,USA,Mango,Daily,Fresh
+1136,22,Female,Canada,Strawberry,Once a week,Smoothie
+1137,48,Male,UK,Apple,4-5 times a week,Fresh
+1138,26,Female,Australia,Banana,Once a week,Smoothie
+1139,35,Male,Germany,Orange,3-4 times a week,Juice
+1140,51,Female,France,Mango,Daily,Fresh
+1141,18,Male,USA,Strawberry,Once a week,Smoothie
+1142,42,Female,Canada,Apple,4-5 times a week,Fresh
+1143,31,Male,UK,Banana,3-4 times a week,Smoothie
+1144,46,Female,Australia,Orange,Once a week,Juice
+1145,23,Male,Germany,Mango,2-3 times a week,Fresh
+1146,40,Female,France,Strawberry,Daily,Smoothie
+1147,53,Male,USA,Apple,Once a week,Fresh
+1148,27,Female,Canada,Banana,Once a week,Smoothie
+1149,36,Male,UK,Orange,4-5 times a week,Juice
+1150,49,Female,Australia,Mango,Once a week,Fresh
+1151,24,Male,Germany,Strawberry,Daily,Smoothie
+1152,37,Female,France,Apple,4-5 times a week,Fresh
+1153,54,Male,USA,Orange,Once a week,Juice
+1154,33,Female,Canada,Mango,Daily,Fresh
+1155,50,Male,UK,Strawberry,Once a week,Smoothie
+1156,28,Female,Australia,Apple,2-3 times a week,Fresh
+1157,19,Male,Germany,Banana,Once a week,Smoothie
+1158,39,Female,France,Orange,3-4 times a week,Juice
+1159,56,Male,USA,Mango,Daily,Fresh
+1160,22,Female,Canada,Strawberry,Once a week,Smoothie
+1161,48,Male,UK,Apple,4-5 times a week,Fresh
+1162,26,Female,Australia,Banana,Once a week,Smoothie
+1163,35,Male,Germany,Orange,3-4 times a week,Juice
+1164,51,Female,France,Mango,Daily,Fresh
+1165,18,Male,USA,Strawberry,Once a week,Smoothie
+1166,42,Female,Canada,Apple,4-5 times a week,Fresh
+1167,31,Male,UK,Banana,3-4 times a week,Smoothie
+1168,46,Female,Australia,Orange,Once a week,Juice
+1169,23,Male,Germany,Mango,2-3 times a week,Fresh
+1170,40,Female,France,Strawberry,Daily,Smoothie
+1171,53,Male,USA,Apple,Once a week,Fresh
+1172,27,Female,Canada,Banana,Once a week,Smoothie
+1173,36,Male,UK,Orange,4-5 times a week,Juice
+1174,49,Female,Australia,Mango,Once a week,Fresh
+1175,24,Male,Germany,Strawberry,Daily,Smoothie
+1176,37,Female,France,Apple,4-5 times a week,Fresh
+1177,54,Male,USA,Orange,Once a week,Juice
+1178,33,Female,Canada,Mango,Daily,Fresh
+1179,50,Male,UK,Strawberry,Once a week,Smoothie
+1180,28,Female,Australia,Apple,2-3 times a week,Fresh
+1181,19,Male,Germany,Banana,Once a week,Smoothie
+1182,39,Female,France,Orange,3-4 times a week,Juice
+1183,56,Male,USA,Mango,Daily,Fresh
+1184,22,Female,Canada,Strawberry,Once a week,Smoothie
+1185,48,Male,UK,Apple,4-5 times a week,Fresh
+1186,26,Female,Australia,Banana,Once a week,Smoothie
+1187,35,Male,Germany,Orange,3-4 times a week,Juice
+1188,51,Female,France,Mango,Daily,Fresh
+1189,18,Male,USA,Strawberry,Once a week,Smoothie
+1190,42,Female,Canada,Apple,4-5 times a week,Fresh
+1191,31,Male,UK,Banana,3-4 times a week,Smoothie
+1192,46,Female,Australia,Orange,Once a week,Juice
+1193,23,Male,Germany,Mango,2-3 times a week,Fresh
+1194,40,Female,France,Strawberry,Daily,Smoothie
+1195,53,Male,USA,Apple,Once a week,Fresh
+1196,27,Female,Canada,Banana,Once a week,Smoothie
+1197,36,Male,UK,Orange,4-5 times a week,Juice
+1198,49,Female,Australia,Mango,Once a week,Fresh
+1199,24,Male,Germany,Strawberry,Daily,Smoothie
+1200,37,Female,France,Apple,4-5 times a week,Fresh
+1201,54,Male,USA,Orange,Once a week,Juice
+1202,33,Female,Canada,Mango,Daily,Fresh
+1203,50,Male,UK,Strawberry,Once a week,Smoothie
+1204,28,Female,Australia,Apple,2-3 times a week,Fresh
+1205,19,Male,Germany,Banana,Once a week,Smoothie
+1206,39,Female,France,Orange,3-4 times a week,Juice
+1207,56,Male,USA,Mango,Daily,Fresh
+1208,22,Female,Canada,Strawberry,Once a week,Smoothie
+1209,48,Male,UK,Apple,4-5 times a week,Fresh
+1210,26,Female,Australia,Banana,Once a week,Smoothie
+1211,35,Male,Germany,Orange,3-4 times a week,Juice
+1212,51,Female,France,Mango,Daily,Fresh
+1213,18,Male,USA,Strawberry,Once a week,Smoothie
+1214,42,Female,Canada,Apple,4-5 times a week,Fresh
+1215,31,Male,UK,Banana,3-4 times a week,Smoothie
+1216,46,Female,Australia,Orange,Once a week,Juice
+1217,23,Male,Germany,Mango,2-3 times a week,Fresh
+1218,40,Female,France,Strawberry,Daily,Smoothie
+1219,53,Male,USA,Apple,Once a week,Fresh
+1220,27,Female,Canada,Banana,Once a week,Smoothie
+1221,36,Male,UK,Orange,4-5 times a week,Juice
+1222,49,Female,Australia,Mango,Once a week,Fresh
+1223,24,Male,Germany,Strawberry,Daily,Smoothie
+1224,37,Female,France,Apple,4-5 times a week,Fresh
+1225,54,Male,USA,Orange,Once a week,Juice
+1226,33,Female,Canada,Mango,Daily,Fresh
+1227,50,Male,UK,Strawberry,Once a week,Smoothie
+1228,28,Female,Australia,Apple,2-3 times a week,Fresh
+1229,19,Male,Germany,Banana,Once a week,Smoothie
+1230,39,Female,France,Orange,3-4 times a week,Juice
+1231,56,Male,USA,Mango,Daily,Fresh
+1232,22,Female,Canada,Strawberry,Once a week,Smoothie
+1233,48,Male,UK,Apple,4-5 times a week,Fresh
+1234,26,Female,Australia,Banana,Once a week,Smoothie
+1235,35,Male,Germany,Orange,3-4 times a week,Juice
+1236,51,Female,France,Mango,Daily,Fresh
+1237,18,Male,USA,Strawberry,Once a week,Smoothie
+1238,42,Female,Canada,Apple,4-5 times a week,Fresh
+1239,31,Male,UK,Banana,3-4 times a week,Smoothie
+1240,46,Female,Australia,Orange,Once a week,Juice
+1241,23,Male,Germany,Mango,2-3 times a week,Fresh
+1242,40,Female,France,Strawberry,Daily,Smoothie
+1243,53,Male,USA,Apple,Once a week,Fresh
+1244,27,Female,Canada,Banana,Once a week,Smoothie
+1245,36,Male,UK,Orange,4-5 times a week,Juice
+1246,49,Female,Australia,Mango,Once a week,Fresh
+1247,24,Male,Germany,Strawberry,Daily,Smoothie
+1248,37,Female,France,Apple,4-5 times a week,Fresh
+1249,54,Male,USA,Orange,Once a week,Juice
+1250,33,Female,Canada,Mango,Daily,Fresh
+1251,50,Male,UK,Strawberry,Once a week,Smoothie
+1252,28,Female,Australia,Apple,2-3 times a week,Fresh
+1253,19,Male,Germany,Banana,Once a week,Smoothie
+1254,39,Female,France,Orange,3-4 times a week,Juice
+1255,56,Male,USA,Mango,Daily,Fresh
+1256,22,Female,Canada,Strawberry,Once a week,Smoothie
+1257,48,Male,UK,Apple,4-5 times a week,Fresh
+1258,26,Female,Australia,Banana,Once a week,Smoothie
+1259,35,Male,Germany,Orange,3-4 times a week,Juice
+1260,51,Female,France,Mango,Daily,Fresh
+1261,18,Male,USA,Strawberry,Once a week,Smoothie
+1262,42,Female,Canada,Apple,4-5 times a week,Fresh
+1263,31,Male,UK,Banana,3-4 times a week,Smoothie
+1264,46,Female,Australia,Orange,Once a week,Juice
+1265,23,Male,Germany,Mango,2-3 times a week,Fresh
+1266,40,Female,France,Strawberry,Daily,Smoothie
+1267,53,Male,USA,Apple,Once a week,Fresh
+1268,27,Female,Canada,Banana,Once a week,Smoothie
+1269,36,Male,UK,Orange,4-5 times a week,Juice
+1270,49,Female,Australia,Mango,Once a week,Fresh
+1271,24,Male,Germany,Strawberry,Daily,Smoothie
+1272,37,Female,France,Apple,4-5 times a week,Fresh
+1273,54,Male,USA,Orange,Once a week,Juice
+1274,33,Female,Canada,Mango,Daily,Fresh
+1275,50,Male,UK,Strawberry,Once a week,Smoothie
+1276,28,Female,Australia,Apple,2-3 times a week,Fresh
+1277,19,Male,Germany,Banana,Once a week,Smoothie
+1278,39,Female,France,Orange,3-4 times a week,Juice
+1279,56,Male,USA,Mango,Daily,Fresh
+1280,22,Female,Canada,Strawberry,Once a week,Smoothie
+1281,48,Male,UK,Apple,4-5 times a week,Fresh
+1282,26,Female,Australia,Banana,Once a week,Smoothie
+1283,35,Male,Germany,Orange,3-4 times a week,Juice
+1284,51,Female,France,Mango,Daily,Fresh
+1285,18,Male,USA,Strawberry,Once a week,Smoothie
+1286,42,Female,Canada,Apple,4-5 times a week,Fresh
+1287,31,Male,UK,Banana,3-4 times a week,Smoothie
+1288,46,Female,Australia,Orange,Once a week,Juice
+1289,23,Male,Germany,Mango,2-3 times a week,Fresh
+1290,40,Female,France,Strawberry,Daily,Smoothie
+1291,53,Male,USA,Apple,Once a week,Fresh
+1292,27,Female,Canada,Banana,Once a week,Smoothie
+1293,36,Male,UK,Orange,4-5 times a week,Juice
+1294,49,Female,Australia,Mango,Once a week,Fresh
+1295,24,Male,Germany,Strawberry,Daily,Smoothie
+1296,37,Female,France,Apple,4-5 times a week,Fresh
+1297,54,Male,USA,Orange,Once a week,Juice
+1298,33,Female,Canada,Mango,Daily,Fresh
+1299,50,Male,UK,Strawberry,Once a week,Smoothie
+1300,28,Female,Australia,Apple,2-3 times a week,Fresh
+1301,19,Male,Germany,Banana,Once a week,Smoothie
+1302,39,Female,France,Orange,3-4 times a week,Juice
+1303,56,Male,USA,Mango,Daily,Fresh
+1304,22,Female,Canada,Strawberry,Once a week,Smoothie
+1305,48,Male,UK,Apple,4-5 times a week,Fresh
+1306,26,Female,Australia,Banana,Once a week,Smoothie
+1307,35,Male,Germany,Orange,3-4 times a week,Juice
+1308,51,Female,France,Mango,Daily,Fresh
+1309,18,Male,USA,Strawberry,Once a week,Smoothie
+1310,42,Female,Canada,Apple,4-5 times a week,Fresh
+1311,31,Male,UK,Banana,3-4 times a week,Smoothie
+1312,46,Female,Australia,Orange,Once a week,Juice
+1313,23,Male,Germany,Mango,2-3 times a week,Fresh
+1314,40,Female,France,Strawberry,Daily,Smoothie
+1315,53,Male,USA,Apple,Once a week,Fresh
+1316,27,Female,Canada,Banana,Once a week,Smoothie
+1317,36,Male,UK,Orange,4-5 times a week,Juice
+1318,49,Female,Australia,Mango,Once a week,Fresh
+1319,24,Male,Germany,Strawberry,Daily,Smoothie
+1320,37,Female,France,Apple,4-5 times a week,Fresh
+1321,54,Male,USA,Orange,Once a week,Juice
+1322,33,Female,Canada,Mango,Daily,Fresh
+1323,50,Male,UK,Strawberry,Once a week,Smoothie
+1324,28,Female,Australia,Apple,2-3 times a week,Fresh
+1325,19,Male,Germany,Banana,Once a week,Smoothie
+1326,39,Female,France,Orange,3-4 times a week,Juice
+1327,56,Male,USA,Mango,Daily,Fresh
+1328,22,Female,Canada,Strawberry,Once a week,Smoothie
+1329,48,Male,UK,Apple,4-5 times a week,Fresh
+1330,26,Female,Australia,Banana,Once a week,Smoothie
+1331,35,Male,Germany,Orange,3-4 times a week,Juice
+1332,51,Female,France,Mango,Daily,Fresh
+1333,18,Male,USA,Strawberry,Once a week,Smoothie
+1334,42,Female,Canada,Apple,4-5 times a week,Fresh
+1335,31,Male,UK,Banana,3-4 times a week,Smoothie
+1336,46,Female,Australia,Orange,Once a week,Juice
+1337,23,Male,Germany,Mango,2-3 times a week,Fresh
+1338,40,Female,France,Strawberry,Daily,Smoothie
+1339,53,Male,USA,Apple,Once a week,Fresh
+1340,27,Female,Canada,Banana,Once a week,Smoothie
+1341,36,Male,UK,Orange,4-5 times a week,Juice
+1342,49,Female,Australia,Mango,Once a week,Fresh
+1343,24,Male,Germany,Strawberry,Daily,Smoothie
+1344,37,Female,France,Apple,4-5 times a week,Fresh
+1345,54,Male,USA,Orange,Once a week,Juice
+1346,33,Female,Canada,Mango,Daily,Fresh
+1347,50,Male,UK,Strawberry,Once a week,Smoothie
+1348,28,Female,Australia,Apple,2-3 times a week,Fresh
+1349,19,Male,Germany,Banana,Once a week,Smoothie
+1350,39,Female,France,Orange,3-4 times a week,Juice
+1351,56,Male,USA,Mango,Daily,Fresh
+1352,22,Female,Canada,Strawberry,Once a week,Smoothie
+1353,48,Male,UK,Apple,4-5 times a week,Fresh
+1354,26,Female,Australia,Banana,Once a week,Smoothie
+1355,35,Male,Germany,Orange,3-4 times a week,Juice
+1356,51,Female,France,Mango,Daily,Fresh
+1357,18,Male,USA,Strawberry,Once a week,Smoothie
+1358,42,Female,Canada,Apple,4-5 times a week,Fresh
+1359,31,Male,UK,Banana,3-4 times a week,Smoothie
+1360,46,Female,Australia,Orange,Once a week,Juice
+1361,23,Male,Germany,Mango,2-3 times a week,Fresh
+1362,40,Female,France,Strawberry,Daily,Smoothie
+1363,53,Male,USA,Apple,Once a week,Fresh
+1364,27,Female,Canada,Banana,Once a week,Smoothie
+1365,36,Male,UK,Orange,4-5 times a week,Juice
+1366,49,Female,Australia,Mango,Once a week,Fresh
+1367,24,Male,Germany,Strawberry,Daily,Smoothie
+1368,37,Female,France,Apple,4-5 times a week,Fresh
+1369,54,Male,USA,Orange,Once a week,Juice
+1370,33,Female,Canada,Mango,Daily,Fresh
+1371,50,Male,UK,Strawberry,Once a week,Smoothie
+1372,28,Female,Australia,Apple,2-3 times a week,Fresh
+1373,19,Male,Germany,Banana,Once a week,Smoothie
+1374,39,Female,France,Orange,3-4 times a week,Juice
+1375,56,Male,USA,Mango,Daily,Fresh
+1376,22,Female,Canada,Strawberry,Once a week,Smoothie
+1377,48,Male,UK,Apple,4-5 times a week,Fresh
+1378,26,Female,Australia,Banana,Once a week,Smoothie
+1379,35,Male,Germany,Orange,3-4 times a week,Juice
+1380,51,Female,France,Mango,Daily,Fresh
+1381,18,Male,USA,Strawberry,Once a week,Smoothie
+1382,42,Female,Canada,Apple,4-5 times a week,Fresh
+1383,31,Male,UK,Banana,3-4 times a week,Smoothie
+1384,46,Female,Australia,Orange,Once a week,Juice
+1385,23,Male,Germany,Mango,2-3 times a week,Fresh
+1386,40,Female,France,Strawberry,Daily,Smoothie
+1387,53,Male,USA,Apple,Once a week,Fresh
+1388,27,Female,Canada,Banana,Once a week,Smoothie
+1389,36,Male,UK,Orange,4-5 times a week,Juice
+1390,49,Female,Australia,Mango,Once a week,Fresh
+1391,24,Male,Germany,Strawberry,Daily,Smoothie
+1392,37,Female,France,Apple,4-5 times a week,Fresh
+1393,54,Male,USA,Orange,Once a week,Juice
+1394,33,Female,Canada,Mango,Daily,Fresh
+1395,50,Male,UK,Strawberry,Once a week,Smoothie
+1396,28,Female,Australia,Apple,2-3 times a week,Fresh
+1397,19,Male,Germany,Banana,Once a week,Smoothie
+1398,39,Female,France,Orange,3-4 times a week,Juice
+1399,56,Male,USA,Mango,Daily,Fresh
+1400,22,Female,Canada,Strawberry,Once a week,Smoothie
+1401,48,Male,UK,Apple,4-5 times a week,Fresh
+1402,26,Female,Australia,Banana,Once a week,Smoothie
+1403,35,Male,Germany,Orange,3-4 times a week,Juice
+1404,51,Female,France,Mango,Daily,Fresh
+1405,18,Male,USA,Strawberry,Once a week,Smoothie
+1406,42,Female,Canada,Apple,4-5 times a week,Fresh
+1407,31,Male,UK,Banana,3-4 times a week,Smoothie
+1408,46,Female,Australia,Orange,Once a week,Juice
+1409,23,Male,Germany,Mango,2-3 times a week,Fresh
+1410,40,Female,France,Strawberry,Daily,Smoothie
+1411,53,Male,USA,Apple,Once a week,Fresh
+1412,27,Female,Canada,Banana,Once a week,Smoothie
+1413,36,Male,UK,Orange,4-5 times a week,Juice
+1414,49,Female,Australia,Mango,Once a week,Fresh
+1415,24,Male,Germany,Strawberry,Daily,Smoothie
+1416,37,Female,France,Apple,4-5 times a week,Fresh
+1417,54,Male,USA,Orange,Once a week,Juice
+1418,33,Female,Canada,Mango,Daily,Fresh
+1419,50,Male,UK,Strawberry,Once a week,Smoothie
+1420,28,Female,Australia,Apple,2-3 times a week,Fresh
+1421,19,Male,Germany,Banana,Once a week,Smoothie
+1422,39,Female,France,Orange,3-4 times a week,Juice
+1423,56,Male,USA,Mango,Daily,Fresh
+1424,22,Female,Canada,Strawberry,Once a week,Smoothie
+1425,48,Male,UK,Apple,4-5 times a week,Fresh
+1426,26,Female,Australia,Banana,Once a week,Smoothie
+1427,35,Male,Germany,Orange,3-4 times a week,Juice
+1428,51,Female,France,Mango,Daily,Fresh
+1429,18,Male,USA,Strawberry,Once a week,Smoothie
+1430,42,Female,Canada,Apple,4-5 times a week,Fresh
+1431,31,Male,UK,Banana,3-4 times a week,Smoothie
+1432,46,Female,Australia,Orange,Once a week,Juice
+1433,23,Male,Germany,Mango,2-3 times a week,Fresh
+1434,40,Female,France,Strawberry,Daily,Smoothie
+1435,53,Male,USA,Apple,Once a week,Fresh
+1436,27,Female,Canada,Banana,Once a week,Smoothie
+1437,36,Male,UK,Orange,4-5 times a week,Juice
+1438,49,Female,Australia,4-5 times a week,Mango
